@@ -1,0 +1,1 @@
+//create a structure named company(cmpny name , domain , number of employ , average salary ). display name of companies working in a particular domain , display no. of employees in a particular company , display all details of the company offering the highest average salary , display all details of the company from a particular domain offering the highest average salary. 
